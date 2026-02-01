@@ -18,3 +18,12 @@
     background-color: aqua;
 
 }
+
+
+.folder{
+      background-image: url('src/assets/folder.png');
+     background-size: cover; /* Scales the image to cover the entire container */
+
+
+
+}
